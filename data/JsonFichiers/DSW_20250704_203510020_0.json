@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "18999",
+        "kilometrage": "14023",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Kona",
+        "prix": "18999",
+        "kilometrage": "26457",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "18999",
+        "kilometrage": "30985",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18999",
+        "kilometrage": "10590",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18999",
+        "kilometrage": "28160",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "18999",
+        "kilometrage": "119505",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "18999",
+        "kilometrage": "11290",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG3",
+        "prix": "18999",
+        "kilometrage": "13515",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7",
+        "prix": "18999",
+        "kilometrage": "149013",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "18999",
+        "kilometrage": "65575",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "18999",
+        "kilometrage": "11085",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "18999",
+        "kilometrage": "25032",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "18999",
+        "kilometrage": "35783",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "18999",
+        "kilometrage": "75973",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "18999",
+        "kilometrage": "12067",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Suzuki",
+        "modele": "VITARA",
+        "prix": "18999",
+        "kilometrage": "55766",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG3",
+        "prix": "18999",
+        "kilometrage": "10990",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "18999",
+        "kilometrage": "118953",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla",
+        "prix": "18999",
+        "kilometrage": "76584",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i20",
+        "prix": "18999",
+        "kilometrage": "10805",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Sportage",
+        "prix": "18999",
+        "kilometrage": "92897",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla",
+        "prix": "18999",
+        "kilometrage": "82594",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Stonic",
+        "prix": "18999",
+        "kilometrage": "17562",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    }
+]

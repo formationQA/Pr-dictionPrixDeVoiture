@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "9899",
+        "kilometrage": "48025",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "9999",
+        "kilometrage": "91344",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9999",
+        "kilometrage": "63352",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "9999",
+        "kilometrage": "87420",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "9999",
+        "kilometrage": "55963",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "9999",
+        "kilometrage": "68900",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9999",
+        "kilometrage": "71645",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "9999",
+        "kilometrage": "71780",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "9999",
+        "kilometrage": "56627",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "9999",
+        "kilometrage": "46310",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus",
+        "prix": "9999",
+        "kilometrage": "119194",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500C",
+        "prix": "9999",
+        "kilometrage": "90950",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "9999",
+        "kilometrage": "97050",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "108",
+        "prix": "9999",
+        "kilometrage": "46434",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Adam",
+        "prix": "9999",
+        "kilometrage": "29265",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "9999",
+        "kilometrage": "89400",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9999",
+        "kilometrage": "73405",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "9999",
+        "kilometrage": "118140",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "9999",
+        "kilometrage": "43110",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "Partner Fourgon",
+        "prix": "9999",
+        "kilometrage": "132105",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "10099",
+        "kilometrage": "45281",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "10199",
+        "kilometrage": "46010",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "10299",
+        "kilometrage": "70795",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "BYD",
+        "modele": "Dolphin",
+        "prix": "25299",
+        "kilometrage": "730",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "25299",
+        "kilometrage": "4139",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "39100",
+        "kilometrage": "2",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "39100",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "25399",
+        "kilometrage": "9672",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "25399",
+        "kilometrage": "39300",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "25499",
+        "kilometrage": "20095",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "37770",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "25499",
+        "kilometrage": "13157",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "25499",
+        "kilometrage": "31389",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "25499",
+        "kilometrage": "25669",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "YARIS CROSS",
+        "prix": "25499",
+        "kilometrage": "18255",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "25499",
+        "kilometrage": "18589",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "25499",
+        "kilometrage": "50622",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "25499",
+        "kilometrage": "64613",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Formentor",
+        "prix": "25499",
+        "kilometrage": "51767",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "25499",
+        "kilometrage": "22285",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "25499",
+        "kilometrage": "17650",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "25499",
+        "kilometrage": "28280",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 3",
+        "prix": "25499",
+        "kilometrage": "126631",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ateca",
+        "prix": "25499",
+        "kilometrage": "59266",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "25499",
+        "kilometrage": "23046",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volvo",
+        "modele": "XC40",
+        "prix": "25599",
+        "kilometrage": "65750",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    }
+]

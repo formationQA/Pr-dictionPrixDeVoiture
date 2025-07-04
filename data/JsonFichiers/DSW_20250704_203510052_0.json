@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "35050",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "41420",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "29890",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "41420",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "YARIS CROSS",
+        "prix": "33550",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "35750",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "41290",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "35400",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "27299",
+        "kilometrage": "24510",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "27299",
+        "kilometrage": "18589",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Tiguan Allspace",
+        "prix": "27299",
+        "kilometrage": "114633",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "27299",
+        "kilometrage": "18344",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "34400",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "29290",
+        "kilometrage": "4",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "28550",
+        "kilometrage": "7",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "34400",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "27399",
+        "kilometrage": "3075",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Leon",
+        "prix": "27399",
+        "kilometrage": "29436",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "27499",
+        "kilometrage": "517",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "27499",
+        "kilometrage": "1260",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "34200",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "27499",
+        "kilometrage": "21526",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "27499",
+        "kilometrage": "21535",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    }
+]

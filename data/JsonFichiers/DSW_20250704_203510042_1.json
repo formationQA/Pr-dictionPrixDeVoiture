@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "34350",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "35800",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "24199",
+        "kilometrage": "26562",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "24199",
+        "kilometrage": "86601",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "24199",
+        "kilometrage": "12051",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon",
+        "prix": "24199",
+        "kilometrage": "17551",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "33250",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 X",
+        "prix": "34520",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "25190",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "24299",
+        "kilometrage": "20089",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "24299",
+        "kilometrage": "9120",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "25450",
+        "kilometrage": "80",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "27600",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "24399",
+        "kilometrage": "6504",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "34750",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "YARIS CROSS",
+        "prix": "28850",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "24399",
+        "kilometrage": "21206",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "24399",
+        "kilometrage": "11873",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "38870",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "24499",
+        "kilometrage": "42053",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "YARIS CROSS",
+        "prix": "24499",
+        "kilometrage": "13895",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "34850",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "24499",
+        "kilometrage": "56388",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    }
+]

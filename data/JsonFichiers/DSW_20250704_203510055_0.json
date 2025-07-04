@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Opel",
+        "modele": "GRANDLAND",
+        "prix": "41300",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "30090",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "28499",
+        "kilometrage": "19428",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "28499",
+        "kilometrage": "21821",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "28499",
+        "kilometrage": "55345",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "28499",
+        "kilometrage": "18110",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "RAV 4",
+        "prix": "28499",
+        "kilometrage": "111445",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Audi",
+        "modele": "S3 Sportback",
+        "prix": "",
+        "kilometrage": "Occasion",
+        "boite_vitesse": "2017",
+        "carburant": "Auto.",
+        "annee": "93 068 km"
+    },
+    {
+        "marque": "Tesla",
+        "modele": "MODEL S",
+        "prix": "",
+        "kilometrage": "Occasion",
+        "boite_vitesse": "2018",
+        "carburant": "Auto.",
+        "annee": "123 765 km"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "CLA Shooting Brake",
+        "prix": "28499",
+        "kilometrage": "47460",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "36200",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "36200",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "42850",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Tiguan",
+        "prix": "28599",
+        "kilometrage": "79527",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "36800",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "36200",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Bigster",
+        "prix": "28700",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "30440",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "35200",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon ST",
+        "prix": "28799",
+        "kilometrage": "9000",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "28799",
+        "kilometrage": "240",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "YARIS CROSS",
+        "prix": "33500",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "36200",
+        "kilometrage": "12",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    }
+]

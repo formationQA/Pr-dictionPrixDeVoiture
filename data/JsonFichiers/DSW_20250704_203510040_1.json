@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "34870",
+        "kilometrage": "3",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "31300",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "23399",
+        "kilometrage": "11",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "23399",
+        "kilometrage": "5",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Polo",
+        "prix": "23399",
+        "kilometrage": "14650",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A3 Sportback",
+        "prix": "23399",
+        "kilometrage": "36487",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "23399",
+        "kilometrage": "8",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Tucson",
+        "prix": "23499",
+        "kilometrage": "78163",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Tesla",
+        "modele": "MODEL 3",
+        "prix": "",
+        "kilometrage": "Occasion",
+        "boite_vitesse": "2021",
+        "carburant": "Auto.",
+        "annee": "74 075 km"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "25450",
+        "kilometrage": "6",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "23499",
+        "kilometrage": "8655",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "23499",
+        "kilometrage": "19060",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "33400",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 X",
+        "prix": "33650",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "25190",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2025"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "23499",
+        "kilometrage": "53130",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "23499",
+        "kilometrage": "25712",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "EHS",
+        "prix": "23499",
+        "kilometrage": "24504",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "23499",
+        "kilometrage": "30385",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "23499",
+        "kilometrage": "25107",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "MG",
+        "modele": "EHS",
+        "prix": "23499",
+        "kilometrage": "31445",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508 SW",
+        "prix": "23499",
+        "kilometrage": "27435",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508 SW",
+        "prix": "23499",
+        "kilometrage": "35885",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Toyota",
+        "modele": "Corolla",
+        "prix": "20999",
+        "kilometrage": "56368",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "20999",
+        "kilometrage": "17201",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "20999",
+        "kilometrage": "12899",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Talisman Estate",
+        "prix": "20999",
+        "kilometrage": "55220",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Alfa",
+        "modele": "Romeo Giulia",
+        "prix": "20999",
+        "kilometrage": "102454",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Volvo",
+        "modele": "V60",
+        "prix": "20999",
+        "kilometrage": "124844",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "20999",
+        "kilometrage": "3301",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "20999",
+        "kilometrage": "37777",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "21092",
+        "kilometrage": "28934",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "23900",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "21099",
+        "kilometrage": "24467",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "21099",
+        "kilometrage": "24920",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "21099",
+        "kilometrage": "40979",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "21099",
+        "kilometrage": "29633",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "21099",
+        "kilometrage": "38878",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "21099",
+        "kilometrage": "39693",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "21099",
+        "kilometrage": "33761",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "28120",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "28750",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG5",
+        "prix": "",
+        "kilometrage": "25",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "21199",
+        "kilometrage": "31950",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "21199",
+        "kilometrage": "11018",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "21199",
+        "kilometrage": "13889",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

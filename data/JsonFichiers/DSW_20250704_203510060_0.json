@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Mercedes",
+        "modele": "GLC",
+        "prix": "32799",
+        "kilometrage": "85937",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "32799",
+        "kilometrage": "1793",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2024"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Karoq",
+        "prix": "32899",
+        "kilometrage": "36845",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A4",
+        "prix": "32899",
+        "kilometrage": "64600",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volvo",
+        "modele": "XC40",
+        "prix": "32999",
+        "kilometrage": "19530",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "32999",
+        "kilometrage": "812",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "FORMENTOR",
+        "prix": "44325",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "TRAFIC FOURGON",
+        "prix": "44520",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "32999",
+        "kilometrage": "21150",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "32999",
+        "kilometrage": "20",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Formentor",
+        "prix": "32999",
+        "kilometrage": "13078",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Audi",
+        "modele": "Q3",
+        "prix": "32999",
+        "kilometrage": "27950",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "32999",
+        "kilometrage": "3100",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "46690",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "45890",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "33377",
+        "kilometrage": "6572",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic E-Tech",
+        "prix": "44790",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Lexus",
+        "modele": "LBX",
+        "prix": "38350",
+        "kilometrage": "2",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Bigster",
+        "prix": "33740",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Lexus",
+        "modele": "LBX",
+        "prix": "33399",
+        "kilometrage": "50",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "CX-5",
+        "prix": "33450",
+        "kilometrage": "1062",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "41750",
+        "kilometrage": "11",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "41250",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    }
+]

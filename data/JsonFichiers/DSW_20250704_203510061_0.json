@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "34299",
+        "kilometrage": "13573",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "ID.4",
+        "prix": "34299",
+        "kilometrage": "170",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "45115",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "34399",
+        "kilometrage": "22002",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "44200",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "34499",
+        "kilometrage": "31412",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A5 Sportback",
+        "prix": "34499",
+        "kilometrage": "34800",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Audi",
+        "modele": "Q3 Sportback",
+        "prix": "34699",
+        "kilometrage": "39894",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "41750",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 3",
+        "prix": "34799",
+        "kilometrage": "79209",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "FORMENTOR",
+        "prix": "45775",
+        "kilometrage": "7",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "45690",
+        "kilometrage": "35",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Kuga",
+        "prix": "41190",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "FORMENTOR",
+        "prix": "47430",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Kuga",
+        "prix": "41190",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "48740",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "46990",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Transporter",
+        "prix": "44796",
+        "kilometrage": "67",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Transporter",
+        "prix": "",
+        "kilometrage": "25",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "34999",
+        "kilometrage": "27308",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Leon Sportstourer",
+        "prix": "34999",
+        "kilometrage": "20070",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Ariya",
+        "prix": "34999",
+        "kilometrage": "18200",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "MASTER FOURGON",
+        "prix": "55960",
+        "kilometrage": "5",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    }
+]

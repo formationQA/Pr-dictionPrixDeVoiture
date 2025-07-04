@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "14499",
+        "kilometrage": "28165",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "14499",
+        "kilometrage": "62195",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14499",
+        "kilometrage": "7990",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3 CROSSBACK",
+        "prix": "14499",
+        "kilometrage": "51965",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14499",
+        "kilometrage": "32705",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14499",
+        "kilometrage": "15790",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14499",
+        "kilometrage": "11640",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14499",
+        "kilometrage": "12489",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4",
+        "prix": "14499",
+        "kilometrage": "125295",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "14499",
+        "kilometrage": "69105",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "14499",
+        "kilometrage": "102336",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "14499",
+        "kilometrage": "78762",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "14499",
+        "kilometrage": "105490",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "MX-30",
+        "prix": "14499",
+        "kilometrage": "35965",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Ecosport",
+        "prix": "14499",
+        "kilometrage": "71133",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "14499",
+        "kilometrage": "75721",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Leaf",
+        "prix": "14499",
+        "kilometrage": "42799",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Suzuki",
+        "modele": "Ignis",
+        "prix": "14499",
+        "kilometrage": "20920",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Smart",
+        "modele": "FORTWO CABRIO",
+        "prix": "14499",
+        "kilometrage": "15378",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "14499",
+        "kilometrage": "41195",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "14499",
+        "kilometrage": "32776",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "BMW",
+        "modele": "I3",
+        "prix": "14499",
+        "kilometrage": "51142",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2019"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Auris",
+        "prix": "14499",
+        "kilometrage": "131301",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2019"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "27400",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "27258",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "4208",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "1648",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "2765",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "21100",
+        "kilometrage": "9",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "18721",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "4618",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "6050",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18999",
+        "kilometrage": "3398",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18999",
+        "kilometrage": "7445",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "18999",
+        "kilometrage": "5270",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "18999",
+        "kilometrage": "127791",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "18999",
+        "kilometrage": "29680",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "18999",
+        "kilometrage": "42155",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18999",
+        "kilometrage": "76500",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "18999",
+        "kilometrage": "4",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "18999",
+        "kilometrage": "5",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "18999",
+        "kilometrage": "73295",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "18999",
+        "kilometrage": "86670",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "18999",
+        "kilometrage": "11260",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18999",
+        "kilometrage": "38745",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18999",
+        "kilometrage": "20328",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    }
+]

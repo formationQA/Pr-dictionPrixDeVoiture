@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "53950",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "36400",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "40450",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "R5",
+        "prix": "36540",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra Sports Tourer",
+        "prix": "46550",
+        "kilometrage": "45",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "30499",
+        "kilometrage": "21722",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "30499",
+        "kilometrage": "16892",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "30499",
+        "kilometrage": "15345",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "30499",
+        "kilometrage": "51323",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "BMW",
+        "modele": "X2",
+        "prix": "30499",
+        "kilometrage": "48880",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG4",
+        "prix": "30599",
+        "kilometrage": "504",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "30699",
+        "kilometrage": "21927",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "30699",
+        "kilometrage": "9126",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "30799",
+        "kilometrage": "20930",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "43220",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "30799",
+        "kilometrage": "17967",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Trafic",
+        "prix": "42650",
+        "kilometrage": "7",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Trafic",
+        "prix": "43680",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "38550",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "30999",
+        "kilometrage": "280",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla Touring Sports",
+        "prix": "41200",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "30999",
+        "kilometrage": "6296",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "42020",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    }
+]

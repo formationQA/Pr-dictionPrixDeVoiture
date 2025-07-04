@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "19799",
+        "kilometrage": "48475",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4",
+        "prix": "19799",
+        "kilometrage": "38320",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "23850",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "20900",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG5",
+        "prix": "35140",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19899",
+        "kilometrage": "15478",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "JOGGER",
+        "prix": "19981",
+        "kilometrage": "18958",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "28750",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "27400",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19999",
+        "kilometrage": "16230",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "19999",
+        "kilometrage": "38288",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19999",
+        "kilometrage": "1110",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "23350",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "25900",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19999",
+        "kilometrage": "15740",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19999",
+        "kilometrage": "1145",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "19999",
+        "kilometrage": "18055",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "19999",
+        "kilometrage": "19700",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "19999",
+        "kilometrage": "25195",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "19999",
+        "kilometrage": "8485",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "19999",
+        "kilometrage": "46620",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "19999",
+        "kilometrage": "21710",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19999",
+        "kilometrage": "52165",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Hyundai",
+        "modele": "i20",
+        "prix": "22800",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17399",
+        "kilometrage": "9384",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17399",
+        "kilometrage": "5733",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17399",
+        "kilometrage": "8428",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17399",
+        "kilometrage": "4364",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17399",
+        "kilometrage": "4162",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17399",
+        "kilometrage": "9724",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "17399",
+        "kilometrage": "24670",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "17489",
+        "kilometrage": "21182",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "17499",
+        "kilometrage": "20366",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "17499",
+        "kilometrage": "38230",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "17499",
+        "kilometrage": "105683",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "17499",
+        "kilometrage": "54795",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17499",
+        "kilometrage": "14125",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "17499",
+        "kilometrage": "18742",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "17499",
+        "kilometrage": "18911",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "17499",
+        "kilometrage": "79998",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "17499",
+        "kilometrage": "11910",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17499",
+        "kilometrage": "30789",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17499",
+        "kilometrage": "25530",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17499",
+        "kilometrage": "21804",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17499",
+        "kilometrage": "34321",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "17499",
+        "kilometrage": "16475",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    }
+]

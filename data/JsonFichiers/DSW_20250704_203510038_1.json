@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "22499",
+        "kilometrage": "20624",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "RAV 4",
+        "prix": "22499",
+        "kilometrage": "53731",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra",
+        "prix": "22499",
+        "kilometrage": "26105",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Kuga",
+        "prix": "22499",
+        "kilometrage": "19777",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 3 Touring",
+        "prix": "22499",
+        "kilometrage": "121657",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "CX-5",
+        "prix": "22499",
+        "kilometrage": "56415",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "22499",
+        "kilometrage": "19824",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "22499",
+        "kilometrage": "32755",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "X-Trail",
+        "prix": "22499",
+        "kilometrage": "67325",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Lexus",
+        "modele": "UX",
+        "prix": "22499",
+        "kilometrage": "41102",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "32270",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "24000",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2025"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Combo Life",
+        "prix": "31644",
+        "kilometrage": "6",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "22699",
+        "kilometrage": "949",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "32320",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "26450",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "26600",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "33400",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "32300",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "26450",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "29590",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra",
+        "prix": "22699",
+        "kilometrage": "12018",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Abarth",
+        "modele": "595",
+        "prix": "22699",
+        "kilometrage": "32871",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    }
+]

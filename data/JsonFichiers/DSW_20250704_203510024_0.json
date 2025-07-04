@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19999",
+        "kilometrage": "22528",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19999",
+        "kilometrage": "14750",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "19999",
+        "kilometrage": "80050",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "19999",
+        "kilometrage": "29065",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "23000",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "20099",
+        "kilometrage": "37106",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 X",
+        "prix": "20199",
+        "kilometrage": "52909",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane",
+        "prix": "20199",
+        "kilometrage": "23787",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "20299",
+        "kilometrage": "50504",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "20299",
+        "kilometrage": "42610",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "20299",
+        "kilometrage": "59437",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "28750",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "20399",
+        "kilometrage": "8036",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "ID.3",
+        "prix": "20399",
+        "kilometrage": "12870",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "20399",
+        "kilometrage": "3568",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG5",
+        "prix": "36640",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "20499",
+        "kilometrage": "21774",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "20499",
+        "kilometrage": "1173",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "20499",
+        "kilometrage": "142254",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "20499",
+        "kilometrage": "1516",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "20499",
+        "kilometrage": "40057",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "20499",
+        "kilometrage": "23366",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "20499",
+        "kilometrage": "18180",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2024"
+    }
+]

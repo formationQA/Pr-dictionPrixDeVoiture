@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "BMW",
+        "modele": "Série 2 Active Tourer",
+        "prix": "16999",
+        "kilometrage": "99653",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Up",
+        "prix": "16999",
+        "kilometrage": "1400",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Dokker",
+        "prix": "16999",
+        "kilometrage": "86622",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "16999",
+        "kilometrage": "57863",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "16999",
+        "kilometrage": "37250",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "16999",
+        "kilometrage": "81446",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "16999",
+        "kilometrage": "18334",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "16999",
+        "kilometrage": "54810",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "Mazda 3",
+        "prix": "16999",
+        "kilometrage": "105731",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17099",
+        "kilometrage": "38151",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "17099",
+        "kilometrage": "22565",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "17099",
+        "kilometrage": "16771",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "23070",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17199",
+        "kilometrage": "10162",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "17199",
+        "kilometrage": "65580",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17299",
+        "kilometrage": "32530",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "17299",
+        "kilometrage": "71628",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "17299",
+        "kilometrage": "96878",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Arona",
+        "prix": "17299",
+        "kilometrage": "22966",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "Berlingo",
+        "prix": "17299",
+        "kilometrage": "63632",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "17299",
+        "kilometrage": "13572",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Aygo",
+        "prix": "17299",
+        "kilometrage": "21888",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17399",
+        "kilometrage": "9054",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

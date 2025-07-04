@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "35220",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "13879",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "31444",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "13539",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "26499",
+        "kilometrage": "7656",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "19260",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "22215",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "ZS",
+        "prix": "40640",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "16824",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "14990",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26499",
+        "kilometrage": "17722",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "26499",
+        "kilometrage": "16180",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "26499",
+        "kilometrage": "26390",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Tiguan",
+        "prix": "26499",
+        "kilometrage": "98456",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Formentor",
+        "prix": "26499",
+        "kilometrage": "21271",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "26499",
+        "kilometrage": "27087",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "26499",
+        "kilometrage": "6434",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "RAV 4",
+        "prix": "26499",
+        "kilometrage": "99537",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "26499",
+        "kilometrage": "17370",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "26499",
+        "kilometrage": "28995",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "26499",
+        "kilometrage": "21410",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Audi",
+        "modele": "E-TRON",
+        "prix": "26499",
+        "kilometrage": "93124",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "26499",
+        "kilometrage": "17162",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    }
+]

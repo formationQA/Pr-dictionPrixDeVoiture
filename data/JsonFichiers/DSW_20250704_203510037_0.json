@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Zoé Société",
+        "prix": "10799",
+        "kilometrage": "45975",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scenic 3",
+        "prix": "10799",
+        "kilometrage": "82130",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2015"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "10999",
+        "kilometrage": "36271",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10999",
+        "kilometrage": "58390",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10999",
+        "kilometrage": "89930",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10999",
+        "kilometrage": "111066",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10999",
+        "kilometrage": "60010",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "10999",
+        "kilometrage": "33333",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "10999",
+        "kilometrage": "70940",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "10999",
+        "kilometrage": "17609",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "10999",
+        "kilometrage": "144105",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "10999",
+        "kilometrage": "46360",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Zoé",
+        "prix": "10999",
+        "kilometrage": "47110",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "10999",
+        "kilometrage": "2895",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "10999",
+        "kilometrage": "25105",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Aygo",
+        "prix": "10999",
+        "kilometrage": "21755",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "10999",
+        "kilometrage": "83380",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio",
+        "prix": "10999",
+        "kilometrage": "80583",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "10999",
+        "kilometrage": "71740",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Fabia",
+        "prix": "10999",
+        "kilometrage": "88590",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "108",
+        "prix": "10999",
+        "kilometrage": "36563",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "C-Max",
+        "prix": "10999",
+        "kilometrage": "111082",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "KA+",
+        "prix": "10999",
+        "kilometrage": "37742",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    }
+]

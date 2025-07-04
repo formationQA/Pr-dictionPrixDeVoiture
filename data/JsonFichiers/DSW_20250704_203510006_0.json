@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "5306",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "8686",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "15687",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "9307",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "9430",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "8428",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "8723",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "9326",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "9590",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "9468",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "14983",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "14880",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "11846",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "9033",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "18206",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "14545",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14399",
+        "kilometrage": "7220",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "14499",
+        "kilometrage": "77524",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "14499",
+        "kilometrage": "37963",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "14499",
+        "kilometrage": "72978",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "14499",
+        "kilometrage": "33438",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14499",
+        "kilometrage": "41048",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14499",
+        "kilometrage": "13515",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

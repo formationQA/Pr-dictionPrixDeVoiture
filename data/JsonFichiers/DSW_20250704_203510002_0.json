@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "12999",
+        "kilometrage": "92491",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Stonic",
+        "prix": "12999",
+        "kilometrage": "82982",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "13299",
+        "kilometrage": "86980",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "13299",
+        "kilometrage": "102662",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "13299",
+        "kilometrage": "67761",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "13299",
+        "kilometrage": "35350",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "13299",
+        "kilometrage": "53170",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Ecosport",
+        "prix": "13299",
+        "kilometrage": "45276",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka X",
+        "prix": "13299",
+        "kilometrage": "56188",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "FABIA COMBI",
+        "prix": "13299",
+        "kilometrage": "62930",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "13299",
+        "kilometrage": "79820",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "13299",
+        "kilometrage": "70446",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Zoé",
+        "prix": "13299",
+        "kilometrage": "86558",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Stonic",
+        "prix": "13299",
+        "kilometrage": "82787",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "13399",
+        "kilometrage": "67697",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "13399",
+        "kilometrage": "147996",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "13499",
+        "kilometrage": "12945",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "13499",
+        "kilometrage": "53245",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "13499",
+        "kilometrage": "46215",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "13499",
+        "kilometrage": "42661",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13499",
+        "kilometrage": "16093",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "13499",
+        "kilometrage": "64192",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "13499",
+        "kilometrage": "43530",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    }
+]

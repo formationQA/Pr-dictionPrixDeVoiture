@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "DS",
+        "modele": "DS7 Crossback",
+        "prix": "29299",
+        "kilometrage": "19712",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "29299",
+        "kilometrage": "41200",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "42050",
+        "kilometrage": "8",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "41650",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "36750",
+        "kilometrage": "12",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "42450",
+        "kilometrage": "4",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "43350",
+        "kilometrage": "2",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "29399",
+        "kilometrage": "18314",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "36950",
+        "kilometrage": "11",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "29499",
+        "kilometrage": "13159",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla Touring Sports",
+        "prix": "39450",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "29499",
+        "kilometrage": "19480",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "VIVARO FOURGON",
+        "prix": "",
+        "kilometrage": "25",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "RAV 4",
+        "prix": "29499",
+        "kilometrage": "92449",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Audi",
+        "modele": "e-tron Sportback",
+        "prix": "29499",
+        "kilometrage": "52430",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "29499",
+        "kilometrage": "22117",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "29499",
+        "kilometrage": "12535",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "29499",
+        "kilometrage": "13810",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "35300",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "29599",
+        "kilometrage": "36297",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Tucson",
+        "prix": "29655",
+        "kilometrage": "266",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "39350",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "40220",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    }
+]

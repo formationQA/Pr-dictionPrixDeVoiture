@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "13999",
+        "kilometrage": "49510",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2015"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "13999",
+        "kilometrage": "43125",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "12162",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "13999",
+        "kilometrage": "66230",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "13216",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "13520",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "11426",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "15360",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "18475",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "13213",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "12187",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "10585",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "10090",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "14343",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "13999",
+        "kilometrage": "71140",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "13999",
+        "kilometrage": "55965",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13999",
+        "kilometrage": "17836",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4",
+        "prix": "13999",
+        "kilometrage": "82965",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Zoé",
+        "prix": "13999",
+        "kilometrage": "30149",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "13999",
+        "kilometrage": "26210",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "13999",
+        "kilometrage": "3720",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Aygo",
+        "prix": "13999",
+        "kilometrage": "28285",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "13999",
+        "kilometrage": "69655",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2016"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "10299",
+        "kilometrage": "22090",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "10299",
+        "kilometrage": "87425",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "10299",
+        "kilometrage": "33298",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "10299",
+        "kilometrage": "18941",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "108",
+        "prix": "10299",
+        "kilometrage": "4955",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "10299",
+        "kilometrage": "72650",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "C-Max",
+        "prix": "10299",
+        "kilometrage": "100814",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "10399",
+        "kilometrage": "81258",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "10499",
+        "kilometrage": "69477",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10499",
+        "kilometrage": "102873",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "10499",
+        "kilometrage": "66714",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "10499",
+        "kilometrage": "37027",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "10499",
+        "kilometrage": "71365",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "10499",
+        "kilometrage": "21241",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "10499",
+        "kilometrage": "82275",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "10499",
+        "kilometrage": "69321",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "10499",
+        "kilometrage": "78782",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Panda",
+        "prix": "10499",
+        "kilometrage": "28275",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "10499",
+        "kilometrage": "130670",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "10499",
+        "kilometrage": "68541",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "10499",
+        "kilometrage": "138416",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Picasso",
+        "prix": "10499",
+        "kilometrage": "96369",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Ecosport",
+        "prix": "10499",
+        "kilometrage": "105305",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    }
+]

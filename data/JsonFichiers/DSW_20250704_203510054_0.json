@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "BMW",
+        "modele": "Série 1",
+        "prix": "27999",
+        "kilometrage": "61540",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "27999",
+        "kilometrage": "20265",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "27999",
+        "kilometrage": "3698",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "27999",
+        "kilometrage": "41477",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "27999",
+        "kilometrage": "9057",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "27999",
+        "kilometrage": "4455",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "27999",
+        "kilometrage": "6457",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "27999",
+        "kilometrage": "16485",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "27999",
+        "kilometrage": "9714",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "27999",
+        "kilometrage": "21485",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Sportage",
+        "prix": "27999",
+        "kilometrage": "50635",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Audi",
+        "modele": "Q4 E-TRON",
+        "prix": "27999",
+        "kilometrage": "71852",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Alfa",
+        "modele": "Romeo Stelvio",
+        "prix": "27999",
+        "kilometrage": "57485",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "27999",
+        "kilometrage": "2910",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "27999",
+        "kilometrage": "29895",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Tucson",
+        "prix": "27999",
+        "kilometrage": "36877",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "27999",
+        "kilometrage": "22810",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "27999",
+        "kilometrage": "21180",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "GRANDLAND",
+        "prix": "27999",
+        "kilometrage": "15",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Symbioz",
+        "prix": "35150",
+        "kilometrage": "12",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "29890",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "29590",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "29990",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    }
+]

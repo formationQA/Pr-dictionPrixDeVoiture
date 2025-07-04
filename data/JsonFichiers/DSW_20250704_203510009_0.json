@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "14999",
+        "kilometrage": "4474",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "14999",
+        "kilometrage": "96490",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14999",
+        "kilometrage": "11263",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14999",
+        "kilometrage": "20585",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "14999",
+        "kilometrage": "26227",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra",
+        "prix": "14999",
+        "kilometrage": "21382",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Mini",
+        "modele": "Mini",
+        "prix": "14999",
+        "kilometrage": "89659",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Suzuki",
+        "modele": "Swift",
+        "prix": "14999",
+        "kilometrage": "47230",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "14999",
+        "kilometrage": "87487",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane",
+        "prix": "14999",
+        "kilometrage": "75314",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "15099",
+        "kilometrage": "59205",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "15199",
+        "kilometrage": "14056",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "15199",
+        "kilometrage": "19650",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "15199",
+        "kilometrage": "66820",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Honda",
+        "modele": "Civic",
+        "prix": "15199",
+        "kilometrage": "80993",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "15299",
+        "kilometrage": "19611",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "15299",
+        "kilometrage": "72305",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "15299",
+        "kilometrage": "9296",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "15299",
+        "kilometrage": "88284",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "15299",
+        "kilometrage": "100157",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "15299",
+        "kilometrage": "82773",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Grandland X",
+        "prix": "15299",
+        "kilometrage": "81371",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus SW",
+        "prix": "15299",
+        "kilometrage": "73123",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    }
+]

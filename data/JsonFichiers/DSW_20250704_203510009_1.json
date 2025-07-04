@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Hyundai",
+        "modele": "i30",
+        "prix": "15399",
+        "kilometrage": "74736",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "15399",
+        "kilometrage": "17428",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "15499",
+        "kilometrage": "11578",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15499",
+        "kilometrage": "44225",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "15499",
+        "kilometrage": "86904",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15499",
+        "kilometrage": "50207",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "15499",
+        "kilometrage": "39518",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "15499",
+        "kilometrage": "20178",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "15499",
+        "kilometrage": "95370",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "15499",
+        "kilometrage": "44095",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "15499",
+        "kilometrage": "26995",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "15499",
+        "kilometrage": "76366",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "15499",
+        "kilometrage": "88813",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "15499",
+        "kilometrage": "71057",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "15499",
+        "kilometrage": "52775",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4",
+        "prix": "15499",
+        "kilometrage": "102621",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "15499",
+        "kilometrage": "66222",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Grandland X",
+        "prix": "15499",
+        "kilometrage": "69957",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Fabia",
+        "prix": "15499",
+        "kilometrage": "10425",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "15499",
+        "kilometrage": "80412",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "15499",
+        "kilometrage": "77413",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "15499",
+        "kilometrage": "95728",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "15499",
+        "kilometrage": "93922",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    }
+]

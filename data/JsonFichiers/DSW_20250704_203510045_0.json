@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "2781",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon",
+        "prix": "24999",
+        "kilometrage": "43650",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "4425",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "9329",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "4909",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "6665",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "9522",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "11739",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "15280",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "24999",
+        "kilometrage": "5209",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Grandland",
+        "prix": "24999",
+        "kilometrage": "22500",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe C",
+        "prix": "24999",
+        "kilometrage": "30868",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Honda",
+        "modele": "E:NY1",
+        "prix": "24999",
+        "kilometrage": "9503",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Koleos",
+        "prix": "24999",
+        "kilometrage": "87140",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "ProCeed",
+        "prix": "24999",
+        "kilometrage": "82240",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "31590",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Audi",
+        "modele": "Q3",
+        "prix": "25099",
+        "kilometrage": "95449",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "35820",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "38870",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Dolphin",
+        "prix": "34990",
+        "kilometrage": "25",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "25299",
+        "kilometrage": "9990",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "25299",
+        "kilometrage": "9285",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra Sports Tourer",
+        "prix": "25299",
+        "kilometrage": "20243",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

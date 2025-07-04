@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Kia",
+        "modele": "Niro",
+        "prix": "20899",
+        "kilometrage": "43595",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "28350",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "20999",
+        "kilometrage": "7104",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "20999",
+        "kilometrage": "24188",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "20999",
+        "kilometrage": "6559",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "27200",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "20999",
+        "kilometrage": "9110",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "20999",
+        "kilometrage": "1337",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "20999",
+        "kilometrage": "23550",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "20999",
+        "kilometrage": "21980",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "20999",
+        "kilometrage": "18126",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "20999",
+        "kilometrage": "18044",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "20999",
+        "kilometrage": "28074",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "20999",
+        "kilometrage": "10246",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "20999",
+        "kilometrage": "75990",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "20999",
+        "kilometrage": "22000",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "20999",
+        "kilometrage": "35058",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "20999",
+        "kilometrage": "21661",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "20999",
+        "kilometrage": "50640",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 Crossback",
+        "prix": "20999",
+        "kilometrage": "125891",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "20999",
+        "kilometrage": "20222",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7",
+        "prix": "20999",
+        "kilometrage": "101711",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "20999",
+        "kilometrage": "15155",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

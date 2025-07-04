@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "16299",
+        "kilometrage": "55024",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "16299",
+        "kilometrage": "55553",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "16299",
+        "kilometrage": "56624",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "16299",
+        "kilometrage": "9706",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16399",
+        "kilometrage": "2434",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "16399",
+        "kilometrage": "14086",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3 CROSSBACK",
+        "prix": "16399",
+        "kilometrage": "46210",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "8485",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "25146",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "16499",
+        "kilometrage": "50244",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "16499",
+        "kilometrage": "22332",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "8916",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "7759",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "4393",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "8110",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "16499",
+        "kilometrage": "6860",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "16499",
+        "kilometrage": "80922",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "16499",
+        "kilometrage": "5487",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "16499",
+        "kilometrage": "70673",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "16499",
+        "kilometrage": "19520",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "16499",
+        "kilometrage": "36989",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "16499",
+        "kilometrage": "21050",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "16499",
+        "kilometrage": "25259",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    }
+]

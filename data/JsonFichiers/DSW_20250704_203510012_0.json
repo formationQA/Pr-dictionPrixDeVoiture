@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Suzuki",
+        "modele": "Swift",
+        "prix": "15999",
+        "kilometrage": "8060",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "15999",
+        "kilometrage": "54404",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Éthanol E85",
+        "annee": "2022"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "15999",
+        "kilometrage": "49306",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "KANGOO VAN",
+        "prix": "15999",
+        "kilometrage": "46150",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Rio",
+        "prix": "15999",
+        "kilometrage": "56302",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "Mazda 2",
+        "prix": "15999",
+        "kilometrage": "54815",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15999",
+        "kilometrage": "18270",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15999",
+        "kilometrage": "54530",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15999",
+        "kilometrage": "18398",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15999",
+        "kilometrage": "15925",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "15999",
+        "kilometrage": "62064",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "15999",
+        "kilometrage": "13650",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "15999",
+        "kilometrage": "24914",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "15999",
+        "kilometrage": "38501",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "15999",
+        "kilometrage": "80420",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "15999",
+        "kilometrage": "38594",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "15999",
+        "kilometrage": "28490",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "15999",
+        "kilometrage": "57845",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "16099",
+        "kilometrage": "11779",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "16299",
+        "kilometrage": "35780",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16299",
+        "kilometrage": "11815",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "16299",
+        "kilometrage": "9835",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "16299",
+        "kilometrage": "57970",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    }
+]

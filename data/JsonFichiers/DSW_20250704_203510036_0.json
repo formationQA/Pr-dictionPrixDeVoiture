@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "21999",
+        "kilometrage": "1420",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "32550",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "21999",
+        "kilometrage": "674",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "ZS",
+        "prix": "34640",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "JOGGER",
+        "prix": "24100",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "21999",
+        "kilometrage": "66110",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "21999",
+        "kilometrage": "38176",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "21999",
+        "kilometrage": "57765",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "21999",
+        "kilometrage": "14305",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "21999",
+        "kilometrage": "24812",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "21999",
+        "kilometrage": "54107",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Polo",
+        "prix": "21999",
+        "kilometrage": "56600",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "21999",
+        "kilometrage": "36299",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "21999",
+        "kilometrage": "11525",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Tucson",
+        "prix": "21999",
+        "kilometrage": "46038",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "21999",
+        "kilometrage": "844",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "21999",
+        "kilometrage": "26520",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Sportage",
+        "prix": "21999",
+        "kilometrage": "37243",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "21999",
+        "kilometrage": "20348",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 Crossback",
+        "prix": "21999",
+        "kilometrage": "87813",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Arona",
+        "prix": "21999",
+        "kilometrage": "36954",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Cross",
+        "prix": "21999",
+        "kilometrage": "30415",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Audi",
+        "modele": "Q3",
+        "prix": "21999",
+        "kilometrage": "77819",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    }
+]

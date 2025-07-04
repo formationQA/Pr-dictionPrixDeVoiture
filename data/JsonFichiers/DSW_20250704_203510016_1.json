@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17699",
+        "kilometrage": "21158",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "KAMIQ",
+        "prix": "17699",
+        "kilometrage": "40832",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A3",
+        "prix": "17699",
+        "kilometrage": "102829",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Ford",
+        "modele": "TRANSIT FOURGON",
+        "prix": "17699",
+        "kilometrage": "91672",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "17699",
+        "kilometrage": "31100",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17699",
+        "kilometrage": "5085",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ateca",
+        "prix": "17799",
+        "kilometrage": "89550",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Prius",
+        "prix": "17799",
+        "kilometrage": "78575",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Prius",
+        "prix": "17799",
+        "kilometrage": "93700",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Talisman Estate",
+        "prix": "17799",
+        "kilometrage": "99745",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17799",
+        "kilometrage": "1751",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "17799",
+        "kilometrage": "63705",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "22050",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "23170",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "22400",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17899",
+        "kilometrage": "17316",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "Mx-30",
+        "prix": "17899",
+        "kilometrage": "17686",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "17999",
+        "kilometrage": "23085",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17999",
+        "kilometrage": "29463",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "17999",
+        "kilometrage": "24343",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17999",
+        "kilometrage": "42958",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "17999",
+        "kilometrage": "54347",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "17999",
+        "kilometrage": "37100",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    }
+]

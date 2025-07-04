@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Fiat",
+        "modele": "Tipo Cross",
+        "prix": "16799",
+        "kilometrage": "49642",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "16899",
+        "kilometrage": "390",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "16999",
+        "kilometrage": "18650",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16999",
+        "kilometrage": "19411",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "16999",
+        "kilometrage": "33291",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "16999",
+        "kilometrage": "40170",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "16999",
+        "kilometrage": "105481",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "16999",
+        "kilometrage": "22961",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "16999",
+        "kilometrage": "75299",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "16999",
+        "kilometrage": "27519",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "16999",
+        "kilometrage": "71034",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "16999",
+        "kilometrage": "17548",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "16999",
+        "kilometrage": "18495",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4",
+        "prix": "16999",
+        "kilometrage": "43015",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "16999",
+        "kilometrage": "68548",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra",
+        "prix": "16999",
+        "kilometrage": "32711",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Grand Scénic 4",
+        "prix": "16999",
+        "kilometrage": "95450",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "16999",
+        "kilometrage": "56821",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Arona",
+        "prix": "16999",
+        "kilometrage": "54356",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "16999",
+        "kilometrage": "117857",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Mini",
+        "modele": "Mini",
+        "prix": "16999",
+        "kilometrage": "43312",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7",
+        "prix": "16999",
+        "kilometrage": "126600",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Arona",
+        "prix": "16999",
+        "kilometrage": "62593",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    }
+]

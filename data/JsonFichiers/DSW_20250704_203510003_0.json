@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "13699",
+        "kilometrage": "125405",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "13799",
+        "kilometrage": "75140",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "13799",
+        "kilometrage": "27700",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13799",
+        "kilometrage": "12065",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "13799",
+        "kilometrage": "125847",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "13799",
+        "kilometrage": "60035",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "13799",
+        "kilometrage": "58187",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Panda",
+        "prix": "13799",
+        "kilometrage": "14713",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "13799",
+        "kilometrage": "53681",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "13799",
+        "kilometrage": "48401",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Panda",
+        "prix": "13799",
+        "kilometrage": "20168",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "13799",
+        "kilometrage": "44306",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13799",
+        "kilometrage": "12230",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13899",
+        "kilometrage": "8498",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13899",
+        "kilometrage": "7574",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "Berlingo",
+        "prix": "13899",
+        "kilometrage": "139004",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "13999",
+        "kilometrage": "59656",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "13999",
+        "kilometrage": "75177",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "13999",
+        "kilometrage": "53293",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "13999",
+        "kilometrage": "97712",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "13999",
+        "kilometrage": "37650",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "13999",
+        "kilometrage": "17330",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "13999",
+        "kilometrage": "93600",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "22299",
+        "kilometrage": "7560",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "32970",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "22299",
+        "kilometrage": "14230",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 Crossback",
+        "prix": "22299",
+        "kilometrage": "95977",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "22299",
+        "kilometrage": "13010",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "JOGGER",
+        "prix": "24000",
+        "kilometrage": "17",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "22399",
+        "kilometrage": "7974",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "29240",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "JOGGER",
+        "prix": "23800",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2025"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "22399",
+        "kilometrage": "123462",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "BMW",
+        "modele": "X2",
+        "prix": "22399",
+        "kilometrage": "99330",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "22399",
+        "kilometrage": "24293",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "22399",
+        "kilometrage": "19134",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon",
+        "prix": "22399",
+        "kilometrage": "49452",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "XCEED",
+        "prix": "22487",
+        "kilometrage": "34050",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "23100",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "22499",
+        "kilometrage": "3483",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "22499",
+        "kilometrage": "19332",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "MG",
+        "modele": "ZS",
+        "prix": "22499",
+        "kilometrage": "18437",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "33100",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "22499",
+        "kilometrage": "54295",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "22499",
+        "kilometrage": "8810",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "22499",
+        "kilometrage": "110765",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    }
+]

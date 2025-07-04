@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "39100",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "25999",
+        "kilometrage": "20831",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "FRONTERA",
+        "prix": "31550",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "27090",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Avenger",
+        "prix": "34050",
+        "kilometrage": "5",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Audi",
+        "modele": "Q2",
+        "prix": "25999",
+        "kilometrage": "17564",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "25999",
+        "kilometrage": "74123",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "25999",
+        "kilometrage": "26431",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Formentor",
+        "prix": "25999",
+        "kilometrage": "57460",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "25999",
+        "kilometrage": "41796",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Formentor",
+        "prix": "25999",
+        "kilometrage": "26422",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "25999",
+        "kilometrage": "82211",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "25999",
+        "kilometrage": "24050",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 X",
+        "prix": "25999",
+        "kilometrage": "960",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "25999",
+        "kilometrage": "70065",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "25999",
+        "kilometrage": "32605",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508 SW",
+        "prix": "25999",
+        "kilometrage": "6732",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "25999",
+        "kilometrage": "721",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "TAIGO",
+        "prix": "25999",
+        "kilometrage": "19770",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "E-RIFTER",
+        "prix": "25999",
+        "kilometrage": "46",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Alfa",
+        "modele": "Romeo Stelvio",
+        "prix": "25999",
+        "kilometrage": "72958",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "25999",
+        "kilometrage": "30169",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "BMW",
+        "modele": "X1",
+        "prix": "25999",
+        "kilometrage": "61385",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    }
+]

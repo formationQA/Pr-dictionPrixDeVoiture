@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Mini",
+        "modele": "Countryman",
+        "prix": "22999",
+        "kilometrage": "49647",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "CLA",
+        "prix": "22999",
+        "kilometrage": "100828",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Grandland",
+        "prix": "22999",
+        "kilometrage": "8589",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "26800",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "34550",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "23099",
+        "kilometrage": "12137",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "32970",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "24600",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "23199",
+        "kilometrage": "31207",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "23199",
+        "kilometrage": "23366",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Tesla",
+        "modele": "MODEL 3",
+        "prix": "23299",
+        "kilometrage": "61304",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "23299",
+        "kilometrage": "26578",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "23299",
+        "kilometrage": "37194",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "33100",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "34150",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "23299",
+        "kilometrage": "26833",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "Partner Fourgon",
+        "prix": "31800",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "23299",
+        "kilometrage": "26299",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "23299",
+        "kilometrage": "27186",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "23299",
+        "kilometrage": "28362",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Grandland",
+        "prix": "23299",
+        "kilometrage": "7",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "23399",
+        "kilometrage": "13",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "YARIS CROSS",
+        "prix": "28850",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    }
+]

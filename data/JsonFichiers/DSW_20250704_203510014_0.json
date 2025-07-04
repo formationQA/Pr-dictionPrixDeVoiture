@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7 SW",
+        "prix": "16499",
+        "kilometrage": "87763",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7 SW",
+        "prix": "16499",
+        "kilometrage": "72646",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "16499",
+        "kilometrage": "112312",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "12977",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16499",
+        "kilometrage": "8230",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "16499",
+        "kilometrage": "13051",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "16499",
+        "kilometrage": "67330",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "16499",
+        "kilometrage": "46270",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 2 Active Tourer",
+        "prix": "16499",
+        "kilometrage": "87765",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "16599",
+        "kilometrage": "64010",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "16599",
+        "kilometrage": "54588",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "MG",
+        "modele": "ZS",
+        "prix": "16599",
+        "kilometrage": "29448",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "16599",
+        "kilometrage": "9457",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Arona",
+        "prix": "16699",
+        "kilometrage": "17320",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "16699",
+        "kilometrage": "13813",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "16799",
+        "kilometrage": "46706",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "16799",
+        "kilometrage": "17650",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "16799",
+        "kilometrage": "30429",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "16799",
+        "kilometrage": "22997",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "16799",
+        "kilometrage": "73172",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Aygo X",
+        "prix": "16799",
+        "kilometrage": "21590",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "16799",
+        "kilometrage": "2314",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ateca",
+        "prix": "16799",
+        "kilometrage": "53015",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    }
+]

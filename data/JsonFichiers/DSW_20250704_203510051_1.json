@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "BMW",
+        "modele": "Série 1",
+        "prix": "26999",
+        "kilometrage": "38990",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "26999",
+        "kilometrage": "18612",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane E-TECH",
+        "prix": "26999",
+        "kilometrage": "6565",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Tiguan",
+        "prix": "26999",
+        "kilometrage": "89480",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 3",
+        "prix": "26999",
+        "kilometrage": "14390",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "26999",
+        "kilometrage": "5506",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "26999",
+        "kilometrage": "2338",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "26999",
+        "kilometrage": "8457",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Kodiaq",
+        "prix": "26999",
+        "kilometrage": "47545",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Alhambra",
+        "prix": "26999",
+        "kilometrage": "92202",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26999",
+        "kilometrage": "24250",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "26999",
+        "kilometrage": "3650",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "26999",
+        "kilometrage": "5520",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "32840",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "27099",
+        "kilometrage": "42537",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "41320",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "35070",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "29450",
+        "kilometrage": "81",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "27199",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "30540",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "35070",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "35070",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "35070",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "21299",
+        "kilometrage": "13203",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "21299",
+        "kilometrage": "27844",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "21299",
+        "kilometrage": "14654",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Superb Combi",
+        "prix": "21299",
+        "kilometrage": "111190",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "ENYAQ",
+        "prix": "21299",
+        "kilometrage": "66596",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "21299",
+        "kilometrage": "23196",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "27450",
+        "kilometrage": "8",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "21399",
+        "kilometrage": "26789",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A3 Sportback",
+        "prix": "21399",
+        "kilometrage": "26023",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Polo",
+        "prix": "21399",
+        "kilometrage": "22253",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG4",
+        "prix": "30140",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "27320",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG3",
+        "prix": "24140",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3 Crossback",
+        "prix": "21499",
+        "kilometrage": "30173",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "21499",
+        "kilometrage": "8863",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "21499",
+        "kilometrage": "13061",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG5",
+        "prix": "36640",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "21499",
+        "kilometrage": "15360",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "21499",
+        "kilometrage": "74198",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "21499",
+        "kilometrage": "101655",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "RIFTER",
+        "prix": "21499",
+        "kilometrage": "61740",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "21499",
+        "kilometrage": "58233",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A3 Sportback",
+        "prix": "21499",
+        "kilometrage": "49810",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2017"
+    }
+]

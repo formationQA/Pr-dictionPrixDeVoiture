@@ -1,0 +1,237 @@
+/* Reset de base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Style du header */
+.site-header {
+    background-color: #4f5567;
+    padding: 10px 20px;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+/* Wrapper pour aligner les éléments */
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Branding */
+.brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+.brand:hover {
+    color: #1abc9c;
+}
+
+/* Navigation principale */
+.nav {
+    position: relative;
+}
+
+.nav__toggle {
+    display: none;
+    background-color: #84a1b5;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.nav__wrapper {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.nav__item a {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.nav__item a:hover {
+    color: #1abc9c;
+}
+
+/* Bouton de connexion */
+.site-header__end a {
+    background-color: #142fcf;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: background-color 0.3s;
+}
+
+.site-header__end a:hover {
+    background-color: #16a085;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nav__wrapper {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background-color: #8ac0ec;
+        padding: 10px;
+        border-radius: 4px;
+        width: 200px;
+    }
+
+    .nav__wrapper.show {
+        display: flex;
+    }
+
+    .nav__toggle {
+        display: inline-block;
+    }
+}
+
+/* Style pour le conteneur principal */
+main {
+    max-width: 800px; /* Limite la largeur */
+    margin: 50px auto; /* Centre le contenu */
+    padding: 20px; /* Espacement interne */
+    background: white; /* Fond blanc */
+    border-radius: 8px; /* Coins arrondis */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre douce */
+}
+
+/* Style des titres principaux dans le main */
+main h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #4f5567;
+    text-align: center;
+}
+
+/* Style des paragraphes dans le main */
+main p {
+    margin-bottom: 15px;
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Style des formulaires */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Espacement entre les champs */
+}
+
+/* Style des étiquettes de formulaire */
+form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #4f5567;
+}
+
+/* Style des champs de formulaire */
+form input,
+form select,
+form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s;
+}
+
+/* Effet sur les champs actifs */
+form input:focus,
+form select:focus {
+    border-color: #1abc9c;
+    outline: none;
+    background-color: #fff;
+}
+
+/* Style du bouton d'envoi */
+form button {
+    background-color: #142fcf;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+form button:hover {
+    background-color: #16a085;
+}
+
+/* Section pour les messages */
+.message {
+    background-color: #eafaf1;
+    color: #2c5c41;
+    padding: 10px;
+    border: 1px solid #a3e4c1;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+/* Section pour les erreurs */
+.message.error {
+    background-color: #fde8e8;
+    color: #b83a3a;
+    border: 1px solid #f5c2c2;
+}
+
+/* Responsive pour main */
+@media (max-width: 768px) {
+    main {
+        padding: 15px;
+        margin: 20px auto;
+    }
+
+    form button {
+        font-size: 1rem;
+    }
+}
+
+#result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    width: 50%;
+    font-size: 1.2rem;
+}
+
+
+
+
+

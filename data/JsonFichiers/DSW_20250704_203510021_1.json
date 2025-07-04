@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "19499",
+        "kilometrage": "19355",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "19499",
+        "kilometrage": "77780",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "X-Trail",
+        "prix": "19499",
+        "kilometrage": "59569",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "19499",
+        "kilometrage": "105940",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe B",
+        "prix": "19499",
+        "kilometrage": "137840",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "19599",
+        "kilometrage": "66106",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "19599",
+        "kilometrage": "890",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "19599",
+        "kilometrage": "12663",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "19599",
+        "kilometrage": "11226",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "24100",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "24550",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "26550",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "19699",
+        "kilometrage": "59350",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "19699",
+        "kilometrage": "63000",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "19699",
+        "kilometrage": "60210",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "19699",
+        "kilometrage": "60615",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "19699",
+        "kilometrage": "42590",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19799",
+        "kilometrage": "4511",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "19799",
+        "kilometrage": "64976",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "19799",
+        "kilometrage": "119301",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "19799",
+        "kilometrage": "117987",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Mini",
+        "modele": "Mini",
+        "prix": "19799",
+        "kilometrage": "98598",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Rio",
+        "prix": "19799",
+        "kilometrage": "23120",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    }
+]

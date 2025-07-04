@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "13499",
+        "kilometrage": "87927",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "13499",
+        "kilometrage": "132490",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "13499",
+        "kilometrage": "56312",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland X",
+        "prix": "13499",
+        "kilometrage": "40100",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "13499",
+        "kilometrage": "98018",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Picasso",
+        "prix": "13499",
+        "kilometrage": "75590",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 2 Active Tourer",
+        "prix": "13499",
+        "kilometrage": "139265",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2015"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Fabia",
+        "prix": "13499",
+        "kilometrage": "80443",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Micra",
+        "prix": "13499",
+        "kilometrage": "44558",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "KAMIQ",
+        "prix": "13499",
+        "kilometrage": "106177",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Leaf",
+        "prix": "13499",
+        "kilometrage": "111875",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo SW",
+        "prix": "13499",
+        "kilometrage": "50042",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Polo",
+        "prix": "13499",
+        "kilometrage": "94802",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "13499",
+        "kilometrage": "79942",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "13599",
+        "kilometrage": "100175",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13599",
+        "kilometrage": "14400",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13599",
+        "kilometrage": "14177",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13599",
+        "kilometrage": "14881",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "13599",
+        "kilometrage": "137415",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "INSIGNIA GRAND SPORT",
+        "prix": "13599",
+        "kilometrage": "115920",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13599",
+        "kilometrage": "15544",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Picasso",
+        "prix": "13599",
+        "kilometrage": "99396",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "13699",
+        "kilometrage": "14920",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

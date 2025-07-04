@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "BMW",
+        "modele": "X3",
+        "prix": "36199",
+        "kilometrage": "53444",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "36299",
+        "kilometrage": "9275",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Espace 6",
+        "prix": "46800",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "36499",
+        "kilometrage": "25850",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A4 Avant",
+        "prix": "36499",
+        "kilometrage": "70200",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Rafale",
+        "prix": "47350",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "36599",
+        "kilometrage": "9670",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Trafic",
+        "prix": "47880",
+        "kilometrage": "15",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "GLA",
+        "prix": "36699",
+        "kilometrage": "24980",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "X-Trail",
+        "prix": "54750",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "36974",
+        "kilometrage": "9580",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "36999",
+        "kilometrage": "8492",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "TIGUAN",
+        "prix": "47270",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Terramar",
+        "prix": "49790",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Touran",
+        "prix": "46650",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "56750",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2025"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "36999",
+        "kilometrage": "11740",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "RAV 4",
+        "prix": "36999",
+        "kilometrage": "28670",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Alfa",
+        "modele": "Romeo Tonale",
+        "prix": "36999",
+        "kilometrage": "17075",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf",
+        "prix": "36999",
+        "kilometrage": "7017",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "GLC",
+        "prix": "36999",
+        "kilometrage": "98801",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "36999",
+        "kilometrage": "9680",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "MASTER FOURGON",
+        "prix": "56560",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "12499",
+        "kilometrage": "41077",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "12499",
+        "kilometrage": "75848",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "12499",
+        "kilometrage": "92105",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "12499",
+        "kilometrage": "28590",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "12499",
+        "kilometrage": "75092",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "12499",
+        "kilometrage": "74519",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "12499",
+        "kilometrage": "22847",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "12499",
+        "kilometrage": "112465",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "12499",
+        "kilometrage": "96294",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "12499",
+        "kilometrage": "95825",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Picanto",
+        "prix": "12499",
+        "kilometrage": "9900",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "12499",
+        "kilometrage": "29750",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra Sports Tourer",
+        "prix": "12499",
+        "kilometrage": "78181",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Picanto",
+        "prix": "12499",
+        "kilometrage": "43140",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Rio",
+        "prix": "12499",
+        "kilometrage": "8830",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Micra",
+        "prix": "12499",
+        "kilometrage": "72419",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Picanto",
+        "prix": "12499",
+        "kilometrage": "54980",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Rio",
+        "prix": "12499",
+        "kilometrage": "92577",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "BMW",
+        "modele": "I3",
+        "prix": "",
+        "kilometrage": "Occasion",
+        "boite_vitesse": "2017",
+        "carburant": "Auto.",
+        "annee": "54 760 km"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Logan MCV",
+        "prix": "12499",
+        "kilometrage": "67550",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Up",
+        "prix": "12499",
+        "kilometrage": "46079",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus SW",
+        "prix": "12499",
+        "kilometrage": "105283",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 4",
+        "prix": "12499",
+        "kilometrage": "92559",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    }
+]

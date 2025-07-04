@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19399",
+        "kilometrage": "8809",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "19399",
+        "kilometrage": "21402",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "19399",
+        "kilometrage": "69513",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3 Crossback",
+        "prix": "19399",
+        "kilometrage": "17940",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19499",
+        "kilometrage": "12028",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "YARIS CROSS",
+        "prix": "19499",
+        "kilometrage": "73669",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19499",
+        "kilometrage": "12701",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19499",
+        "kilometrage": "14931",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19499",
+        "kilometrage": "11920",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "19499",
+        "kilometrage": "6039",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19499",
+        "kilometrage": "11250",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19499",
+        "kilometrage": "13397",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19499",
+        "kilometrage": "20584",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19499",
+        "kilometrage": "14673",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "19499",
+        "kilometrage": "33005",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Éthanol E85",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "19499",
+        "kilometrage": "70790",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "19499",
+        "kilometrage": "26792",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4",
+        "prix": "19499",
+        "kilometrage": "81699",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Tucson",
+        "prix": "19499",
+        "kilometrage": "72447",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "19499",
+        "kilometrage": "57461",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Honda",
+        "modele": "HR-V",
+        "prix": "19499",
+        "kilometrage": "84092",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19499",
+        "kilometrage": "17422",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19499",
+        "kilometrage": "69580",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    }
+]

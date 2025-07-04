@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C4 Picasso",
+        "prix": "11999",
+        "kilometrage": "87440",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Société",
+        "prix": "11999",
+        "kilometrage": "87730",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Aircross",
+        "prix": "11999",
+        "kilometrage": "123000",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Ford",
+        "modele": "KA+",
+        "prix": "11999",
+        "kilometrage": "17450",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "11999",
+        "kilometrage": "73044",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "11999",
+        "kilometrage": "55929",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "11999",
+        "kilometrage": "64934",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12199",
+        "kilometrage": "12546",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12199",
+        "kilometrage": "13751",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12199",
+        "kilometrage": "10977",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "12299",
+        "kilometrage": "8065",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "12299",
+        "kilometrage": "34178",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "12299",
+        "kilometrage": "45202",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "12299",
+        "kilometrage": "50593",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "12299",
+        "kilometrage": "37288",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "12299",
+        "kilometrage": "104635",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "12299",
+        "kilometrage": "52945",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i10",
+        "prix": "12299",
+        "kilometrage": "31373",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500C",
+        "prix": "12399",
+        "kilometrage": "60662",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i10",
+        "prix": "12399",
+        "kilometrage": "53202",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "12499",
+        "kilometrage": "9102",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "12499",
+        "kilometrage": "78962",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "12499",
+        "kilometrage": "103925",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    }
+]

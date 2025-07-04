@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Volkswagen",
+        "modele": "CADDY FOURGON",
+        "prix": "14499",
+        "kilometrage": "113784",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "14499",
+        "kilometrage": "87192",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "14499",
+        "kilometrage": "74136",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "14499",
+        "kilometrage": "7503",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "14499",
+        "kilometrage": "7401",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "X-Trail",
+        "prix": "14499",
+        "kilometrage": "112920",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2016"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Niro",
+        "prix": "14499",
+        "kilometrage": "131515",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "14599",
+        "kilometrage": "58828",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "14599",
+        "kilometrage": "55278",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "14699",
+        "kilometrage": "24660",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "14699",
+        "kilometrage": "33415",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3 CROSSBACK",
+        "prix": "14699",
+        "kilometrage": "73295",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo SW",
+        "prix": "14699",
+        "kilometrage": "62729",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5 Société",
+        "prix": "14699",
+        "kilometrage": "42694",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 1",
+        "prix": "14699",
+        "kilometrage": "95690",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Grandland X",
+        "prix": "14699",
+        "kilometrage": "107541",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio",
+        "prix": "14699",
+        "kilometrage": "18943",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A3 Sportback",
+        "prix": "14799",
+        "kilometrage": "109247",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "14799",
+        "kilometrage": "5615",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "14799",
+        "kilometrage": "102800",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "14799",
+        "kilometrage": "17119",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "14799",
+        "kilometrage": "18916",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14799",
+        "kilometrage": "22770",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "17499",
+        "kilometrage": "36530",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "17499",
+        "kilometrage": "72991",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "17499",
+        "kilometrage": "39028",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Audi",
+        "modele": "Q2",
+        "prix": "17499",
+        "kilometrage": "99570",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "17499",
+        "kilometrage": "46541",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Cross",
+        "prix": "17499",
+        "kilometrage": "140070",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "17499",
+        "kilometrage": "27930",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Insignia Sports Tourer",
+        "prix": "17499",
+        "kilometrage": "101871",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17499",
+        "kilometrage": "18119",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "17499",
+        "kilometrage": "93010",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "17499",
+        "kilometrage": "39995",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "17499",
+        "kilometrage": "49443",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "KAMIQ",
+        "prix": "17499",
+        "kilometrage": "65945",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17599",
+        "kilometrage": "18641",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Arona",
+        "prix": "17599",
+        "kilometrage": "12490",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "22620",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17699",
+        "kilometrage": "8874",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17699",
+        "kilometrage": "14466",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17699",
+        "kilometrage": "4533",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17699",
+        "kilometrage": "3626",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17699",
+        "kilometrage": "73550",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "17699",
+        "kilometrage": "12180",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "17699",
+        "kilometrage": "20666",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

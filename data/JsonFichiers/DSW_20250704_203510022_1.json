@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "19999",
+        "kilometrage": "9508",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "19999",
+        "kilometrage": "7854",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "Berlingo",
+        "prix": "19999",
+        "kilometrage": "72077",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "19999",
+        "kilometrage": "59783",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Tucson",
+        "prix": "19999",
+        "kilometrage": "97527",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "19999",
+        "kilometrage": "51285",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "GRAND C4 SPACETOURER",
+        "prix": "19999",
+        "kilometrage": "49670",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19999",
+        "kilometrage": "18390",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "19999",
+        "kilometrage": "75577",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19999",
+        "kilometrage": "16905",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19999",
+        "kilometrage": "16440",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "19999",
+        "kilometrage": "103421",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "19999",
+        "kilometrage": "64195",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "19999",
+        "kilometrage": "26583",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "JOGGER",
+        "prix": "19999",
+        "kilometrage": "14495",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "19999",
+        "kilometrage": "29720",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "19999",
+        "kilometrage": "17032",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "19999",
+        "kilometrage": "71706",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "19999",
+        "kilometrage": "23212",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "19999",
+        "kilometrage": "72892",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "19999",
+        "kilometrage": "16244",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla",
+        "prix": "19999",
+        "kilometrage": "92084",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "19999",
+        "kilometrage": "61510",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    }
+]

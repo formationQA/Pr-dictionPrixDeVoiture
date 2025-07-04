@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "18499",
+        "kilometrage": "38800",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 2 Active Tourer",
+        "prix": "18499",
+        "kilometrage": "39355",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "18599",
+        "kilometrage": "7998",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Aygo",
+        "prix": "18599",
+        "kilometrage": "8979",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Ioniq",
+        "prix": "18599",
+        "kilometrage": "64835",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18599",
+        "kilometrage": "43780",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18599",
+        "kilometrage": "17632",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Jogger",
+        "prix": "18699",
+        "kilometrage": "49217",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "18699",
+        "kilometrage": "23237",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "BAYON",
+        "prix": "18699",
+        "kilometrage": "17670",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "18699",
+        "kilometrage": "20540",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18799",
+        "kilometrage": "18885",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18799",
+        "kilometrage": "15780",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "18799",
+        "kilometrage": "45192",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 1",
+        "prix": "18799",
+        "kilometrage": "78933",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Sportage",
+        "prix": "18799",
+        "kilometrage": "97600",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "18799",
+        "kilometrage": "55195",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18799",
+        "kilometrage": "21724",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Karoq",
+        "prix": "18799",
+        "kilometrage": "62206",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "S-Max",
+        "prix": "18799",
+        "kilometrage": "91220",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "18809",
+        "kilometrage": "15830",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Jogger",
+        "prix": "18899",
+        "kilometrage": "34980",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "18899",
+        "kilometrage": "43724",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    }
+]

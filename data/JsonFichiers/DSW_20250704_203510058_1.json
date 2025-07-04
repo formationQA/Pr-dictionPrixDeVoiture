@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "30999",
+        "kilometrage": "28515",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "30999",
+        "kilometrage": "14520",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "30999",
+        "kilometrage": "16512",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "30999",
+        "kilometrage": "17236",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "30999",
+        "kilometrage": "19724",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "X-Trail",
+        "prix": "30999",
+        "kilometrage": "27124",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Tesla",
+        "modele": "MODEL Y",
+        "prix": "30999",
+        "kilometrage": "93065",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508 SW",
+        "prix": "30999",
+        "kilometrage": "12465",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "30999",
+        "kilometrage": "50837",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "31299",
+        "kilometrage": "27505",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "BYD",
+        "modele": "Atto 2",
+        "prix": "",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "TRAFIC FOURGON",
+        "prix": "43460",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "Formentor",
+        "prix": "31399",
+        "kilometrage": "32202",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Tiguan",
+        "prix": "31399",
+        "kilometrage": "39352",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "41350",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "31499",
+        "kilometrage": "244",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "31499",
+        "kilometrage": "12490",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "41950",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "R5",
+        "prix": "36540",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "31499",
+        "kilometrage": "25810",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "31499",
+        "kilometrage": "43460",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "31499",
+        "kilometrage": "27310",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "408",
+        "prix": "31499",
+        "kilometrage": "5270",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    }
+]

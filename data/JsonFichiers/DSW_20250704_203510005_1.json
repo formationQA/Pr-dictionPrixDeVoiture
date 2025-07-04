@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Dacia",
+        "modele": "Lodgy",
+        "prix": "8999",
+        "kilometrage": "112056",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "108",
+        "prix": "9199",
+        "kilometrage": "60689",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9299",
+        "kilometrage": "51255",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "9299",
+        "kilometrage": "100721",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "9299",
+        "kilometrage": "132135",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4 CROSSBACK",
+        "prix": "9299",
+        "kilometrage": "121115",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Logan MCV",
+        "prix": "9299",
+        "kilometrage": "110665",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "9399",
+        "kilometrage": "70235",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland X",
+        "prix": "9399",
+        "kilometrage": "101390",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "9499",
+        "kilometrage": "30582",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9499",
+        "kilometrage": "72800",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9499",
+        "kilometrage": "62840",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "9499",
+        "kilometrage": "71575",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "9499",
+        "kilometrage": "70054",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "9499",
+        "kilometrage": "82254",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Picanto",
+        "prix": "9499",
+        "kilometrage": "40645",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "9499",
+        "kilometrage": "13810",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "9799",
+        "kilometrage": "116580",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "9799",
+        "kilometrage": "89740",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9799",
+        "kilometrage": "61076",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C1",
+        "prix": "9799",
+        "kilometrage": "30319",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Logan",
+        "prix": "9799",
+        "kilometrage": "36567",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "9899",
+        "kilometrage": "79544",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    }
+]

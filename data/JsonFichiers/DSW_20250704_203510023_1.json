@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "19999",
+        "kilometrage": "84112",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG3",
+        "prix": "19999",
+        "kilometrage": "13360",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "19999",
+        "kilometrage": "83455",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "19999",
+        "kilometrage": "80530",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "19999",
+        "kilometrage": "81510",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "19999",
+        "kilometrage": "81350",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Sportage",
+        "prix": "19999",
+        "kilometrage": "82380",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "CITAN TOURER",
+        "prix": "19999",
+        "kilometrage": "39552",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "19999",
+        "kilometrage": "78540",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon",
+        "prix": "19999",
+        "kilometrage": "74658",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "Mx-30",
+        "prix": "19999",
+        "kilometrage": "27940",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208 ELECTRIQUE",
+        "prix": "19999",
+        "kilometrage": "7",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Avenger",
+        "prix": "19999",
+        "kilometrage": "18900",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 2 Gran Tourer",
+        "prix": "19999",
+        "kilometrage": "128948",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf Sportsvan",
+        "prix": "19999",
+        "kilometrage": "63521",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf Sportsvan",
+        "prix": "19999",
+        "kilometrage": "52465",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "MG",
+        "modele": "HS",
+        "prix": "19999",
+        "kilometrage": "57389",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Insignia Sports Tourer",
+        "prix": "19999",
+        "kilometrage": "89114",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19999",
+        "kilometrage": "3954",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "19999",
+        "kilometrage": "9",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "19999",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "19999",
+        "kilometrage": "11295",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "19999",
+        "kilometrage": "37259",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    }
+]

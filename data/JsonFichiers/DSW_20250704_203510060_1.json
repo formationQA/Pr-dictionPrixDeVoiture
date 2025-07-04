@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "45115",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "41059",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Smart",
+        "modele": "#3",
+        "prix": "33499",
+        "kilometrage": "4875",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "MASTER FOURGON",
+        "prix": "54890",
+        "kilometrage": "9",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "FORMENTOR",
+        "prix": "45435",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Dangel",
+        "modele": "PARTNER FOURGON",
+        "prix": "37092",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "42210",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "47090",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "47285",
+        "kilometrage": "8",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Cupra",
+        "modele": "FORMENTOR",
+        "prix": "46025",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "42540",
+        "kilometrage": "13",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7",
+        "prix": "53400",
+        "kilometrage": "75",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "33999",
+        "kilometrage": "5735",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2023"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Compass",
+        "prix": "33999",
+        "kilometrage": "8910",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe E Break",
+        "prix": "33999",
+        "kilometrage": "134000",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride diesel rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Tesla",
+        "modele": "MODEL Y",
+        "prix": "33999",
+        "kilometrage": "60135",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe C Break",
+        "prix": "33999",
+        "kilometrage": "40798",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Subaru",
+        "modele": "Solterra",
+        "prix": "33999",
+        "kilometrage": "11189",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Tesla",
+        "modele": "MODEL S",
+        "prix": "33999",
+        "kilometrage": "44613",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2019"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 1",
+        "prix": "33999",
+        "kilometrage": "5172",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "44100",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Austral",
+        "prix": "45300",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "Jumper Fourgon",
+        "prix": "54564",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    }
+]

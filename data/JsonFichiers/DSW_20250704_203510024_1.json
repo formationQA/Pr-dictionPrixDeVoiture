@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "20499",
+        "kilometrage": "45009",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "20499",
+        "kilometrage": "10480",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Polo",
+        "prix": "20499",
+        "kilometrage": "42441",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "20499",
+        "kilometrage": "65212",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "20499",
+        "kilometrage": "42153",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500C",
+        "prix": "20499",
+        "kilometrage": "5989",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "MG",
+        "modele": "EHS",
+        "prix": "20499",
+        "kilometrage": "56775",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris 4",
+        "prix": "20499",
+        "kilometrage": "28339",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla",
+        "prix": "20499",
+        "kilometrage": "62362",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla",
+        "prix": "20499",
+        "kilometrage": "63208",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe B",
+        "prix": "20499",
+        "kilometrage": "88580",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Kia",
+        "modele": "XCEED",
+        "prix": "20499",
+        "kilometrage": "21270",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "BAYON",
+        "prix": "20499",
+        "kilometrage": "21910",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mitsubishi",
+        "modele": "ECLIPSE CROSS",
+        "prix": "20499",
+        "kilometrage": "85820",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "SCALA",
+        "prix": "20499",
+        "kilometrage": "68820",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "20499",
+        "kilometrage": "2990",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Grand Scénic 4",
+        "prix": "20499",
+        "kilometrage": "69755",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "MG",
+        "modele": "EHS",
+        "prix": "20499",
+        "kilometrage": "51470",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2022"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Niro",
+        "prix": "20499",
+        "kilometrage": "40617",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "23850",
+        "kilometrage": "0",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "20599",
+        "kilometrage": "26940",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "20599",
+        "kilometrage": "31350",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "27700",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    }
+]

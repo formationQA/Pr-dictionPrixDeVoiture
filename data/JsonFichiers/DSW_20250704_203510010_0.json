@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Fiat",
+        "modele": "Panda",
+        "prix": "15499",
+        "kilometrage": "31636",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "e-Golf",
+        "prix": "15499",
+        "kilometrage": "58465",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Honda",
+        "modele": "Civic",
+        "prix": "15499",
+        "kilometrage": "132038",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Logan MCV",
+        "prix": "15499",
+        "kilometrage": "63520",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo Cross",
+        "prix": "15499",
+        "kilometrage": "29540",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "15499",
+        "kilometrage": "34630",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "15499",
+        "kilometrage": "28560",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "15499",
+        "kilometrage": "33106",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "15599",
+        "kilometrage": "92145",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "15599",
+        "kilometrage": "94376",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Sportage",
+        "prix": "15599",
+        "kilometrage": "126985",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "15599",
+        "kilometrage": "53863",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "15599",
+        "kilometrage": "27471",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "15599",
+        "kilometrage": "111386",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "15699",
+        "kilometrage": "6647",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "15699",
+        "kilometrage": "73145",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "15699",
+        "kilometrage": "63050",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "KANGOO VAN",
+        "prix": "15699",
+        "kilometrage": "8410",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio",
+        "prix": "15699",
+        "kilometrage": "11434",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "15799",
+        "kilometrage": "48204",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "15799",
+        "kilometrage": "70922",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "15799",
+        "kilometrage": "81025",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "20270",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    }
+]

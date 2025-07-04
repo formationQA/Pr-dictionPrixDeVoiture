@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "22999",
+        "kilometrage": "1080",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "22999",
+        "kilometrage": "53883",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "22999",
+        "kilometrage": "56275",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Sportage",
+        "prix": "22999",
+        "kilometrage": "42024",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 1",
+        "prix": "22999",
+        "kilometrage": "19691",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "22999",
+        "kilometrage": "27074",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 CROSSBACK",
+        "prix": "22999",
+        "kilometrage": "83535",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "22999",
+        "kilometrage": "32021",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "22999",
+        "kilometrage": "25431",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "22999",
+        "kilometrage": "57058",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "22999",
+        "kilometrage": "13864",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "22999",
+        "kilometrage": "12664",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "22999",
+        "kilometrage": "11729",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "22999",
+        "kilometrage": "11103",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3",
+        "prix": "22999",
+        "kilometrage": "11568",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf",
+        "prix": "22999",
+        "kilometrage": "70980",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "RCZ",
+        "prix": "22999",
+        "kilometrage": "77770",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2015"
+    },
+    {
+        "marque": "Kia",
+        "modele": "XCEED",
+        "prix": "22999",
+        "kilometrage": "24905",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Avenger",
+        "prix": "22999",
+        "kilometrage": "24718",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "22999",
+        "kilometrage": "20535",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "22999",
+        "kilometrage": "59174",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "22999",
+        "kilometrage": "2128",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS7 Crossback",
+        "prix": "22999",
+        "kilometrage": "84137",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    }
+]

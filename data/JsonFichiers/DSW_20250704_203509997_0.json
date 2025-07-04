@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "7499",
+        "kilometrage": "131636",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Zoé",
+        "prix": "7499",
+        "kilometrage": "86991",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "7999",
+        "kilometrage": "72700",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2015"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "7999",
+        "kilometrage": "128750",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "7999",
+        "kilometrage": "128620",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8299",
+        "kilometrage": "87596",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Panda",
+        "prix": "8299",
+        "kilometrage": "97393",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8499",
+        "kilometrage": "94834",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8499",
+        "kilometrage": "91970",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "8499",
+        "kilometrage": "105168",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8599",
+        "kilometrage": "109950",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8699",
+        "kilometrage": "80994",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8799",
+        "kilometrage": "78356",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "8799",
+        "kilometrage": "101532",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8999",
+        "kilometrage": "55265",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "8999",
+        "kilometrage": "86785",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "8999",
+        "kilometrage": "48530",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Zoé",
+        "prix": "8999",
+        "kilometrage": "45450",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS4",
+        "prix": "8999",
+        "kilometrage": "110603",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "108",
+        "prix": "8999",
+        "kilometrage": "48380",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2016"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Zoé",
+        "prix": "8999",
+        "kilometrage": "43070",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C1",
+        "prix": "8999",
+        "kilometrage": "91119",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "8999",
+        "kilometrage": "114290",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    }
+]

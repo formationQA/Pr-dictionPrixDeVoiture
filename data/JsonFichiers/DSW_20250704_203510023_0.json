@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "10499",
+        "kilometrage": "115977",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C1",
+        "prix": "10499",
+        "kilometrage": "38378",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "10499",
+        "kilometrage": "105920",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10499",
+        "kilometrage": "66204",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10499",
+        "kilometrage": "100241",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "10499",
+        "kilometrage": "49637",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "10499",
+        "kilometrage": "32278",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "10499",
+        "kilometrage": "30070",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "10599",
+        "kilometrage": "54670",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "10599",
+        "kilometrage": "17275",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Panda",
+        "prix": "10599",
+        "kilometrage": "47984",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 4",
+        "prix": "10699",
+        "kilometrage": "75175",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "10699",
+        "kilometrage": "101450",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Spring",
+        "prix": "10699",
+        "kilometrage": "22391",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "10699",
+        "kilometrage": "76200",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "10799",
+        "kilometrage": "69628",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "10799",
+        "kilometrage": "39070",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "10799",
+        "kilometrage": "95664",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "10799",
+        "kilometrage": "35750",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "10799",
+        "kilometrage": "80818",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "10799",
+        "kilometrage": "72360",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "10799",
+        "kilometrage": "31755",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "10799",
+        "kilometrage": "63225",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    }
+]

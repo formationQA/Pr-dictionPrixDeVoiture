@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "12999",
+        "kilometrage": "76878",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "12999",
+        "kilometrage": "105850",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "12999",
+        "kilometrage": "59265",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "12999",
+        "kilometrage": "102345",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "12999",
+        "kilometrage": "28182",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "Berlingo",
+        "prix": "12999",
+        "kilometrage": "80715",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "12999",
+        "kilometrage": "106965",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Cactus",
+        "prix": "12999",
+        "kilometrage": "35100",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra",
+        "prix": "12999",
+        "kilometrage": "112757",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Picasso",
+        "prix": "12999",
+        "kilometrage": "75713",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka X",
+        "prix": "12999",
+        "kilometrage": "85915",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio",
+        "prix": "12999",
+        "kilometrage": "108118",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Mazda",
+        "modele": "CX-3",
+        "prix": "12999",
+        "kilometrage": "126495",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus SW",
+        "prix": "12999",
+        "kilometrage": "105038",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Up",
+        "prix": "12999",
+        "kilometrage": "61475",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Cee'd",
+        "prix": "12999",
+        "kilometrage": "94610",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Logan",
+        "prix": "12999",
+        "kilometrage": "45664",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "12999",
+        "kilometrage": "85677",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "12999",
+        "kilometrage": "42635",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12999",
+        "kilometrage": "13460",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12999",
+        "kilometrage": "30226",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "12999",
+        "kilometrage": "109223",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Kona",
+        "prix": "12999",
+        "kilometrage": "113991",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    }
+]

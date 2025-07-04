@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "23999",
+        "kilometrage": "19180",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "23999",
+        "kilometrage": "30070",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "23999",
+        "kilometrage": "29770",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "23999",
+        "kilometrage": "23765",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "23999",
+        "kilometrage": "63115",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "23999",
+        "kilometrage": "102298",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8",
+        "prix": "23999",
+        "kilometrage": "45467",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "23999",
+        "kilometrage": "24756",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "23999",
+        "kilometrage": "23387",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "X-Trail",
+        "prix": "23999",
+        "kilometrage": "138015",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 1",
+        "prix": "23999",
+        "kilometrage": "47872",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus",
+        "prix": "23999",
+        "kilometrage": "22072",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "23999",
+        "kilometrage": "19105",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508",
+        "prix": "23999",
+        "kilometrage": "19075",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "TAIGO",
+        "prix": "23999",
+        "kilometrage": "18905",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "MG5",
+        "prix": "23999",
+        "kilometrage": "25",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Kia",
+        "modele": "ProCeed",
+        "prix": "23999",
+        "kilometrage": "71571",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A3",
+        "prix": "23999",
+        "kilometrage": "84090",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "23999",
+        "kilometrage": "18405",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Alhambra",
+        "prix": "23999",
+        "kilometrage": "81741",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2016"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon ST",
+        "prix": "23999",
+        "kilometrage": "13496",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Jeep",
+        "modele": "Renegade",
+        "prix": "24099",
+        "kilometrage": "29998",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane",
+        "prix": "24099",
+        "kilometrage": "26502",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2024"
+    }
+]

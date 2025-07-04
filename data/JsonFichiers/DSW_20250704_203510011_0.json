@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15999",
+        "kilometrage": "17808",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "15999",
+        "kilometrage": "16638",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "15999",
+        "kilometrage": "35630",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "15999",
+        "kilometrage": "12140",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "15999",
+        "kilometrage": "80349",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "15999",
+        "kilometrage": "36010",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "15999",
+        "kilometrage": "21288",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "15999",
+        "kilometrage": "58410",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "15999",
+        "kilometrage": "30111",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "15999",
+        "kilometrage": "87132",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "15999",
+        "kilometrage": "37728",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "15999",
+        "kilometrage": "21450",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "15999",
+        "kilometrage": "94406",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "PUMA",
+        "prix": "15999",
+        "kilometrage": "56354",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "15999",
+        "kilometrage": "88083",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7",
+        "prix": "15999",
+        "kilometrage": "96147",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "15999",
+        "kilometrage": "47980",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308 SW",
+        "prix": "15999",
+        "kilometrage": "36729",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Aygo X",
+        "prix": "15999",
+        "kilometrage": "24500",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "15999",
+        "kilometrage": "60878",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Suzuki",
+        "modele": "Vitara",
+        "prix": "15999",
+        "kilometrage": "113306",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "15999",
+        "kilometrage": "99136",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus",
+        "prix": "15999",
+        "kilometrage": "108702",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Toyota",
+        "modele": "Aygo",
+        "prix": "13999",
+        "kilometrage": "13771",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Stonic",
+        "prix": "13999",
+        "kilometrage": "71325",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "13999",
+        "kilometrage": "92104",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Niro",
+        "prix": "13999",
+        "kilometrage": "143890",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 Picasso",
+        "prix": "13999",
+        "kilometrage": "31830",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "13999",
+        "kilometrage": "37244",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Micra",
+        "prix": "13999",
+        "kilometrage": "91738",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra Sports Tourer",
+        "prix": "13999",
+        "kilometrage": "85440",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "13999",
+        "kilometrage": "22865",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio",
+        "prix": "13999",
+        "kilometrage": "86689",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500L",
+        "prix": "13999",
+        "kilometrage": "100962",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "BMW",
+        "modele": "I3",
+        "prix": "13999",
+        "kilometrage": "83457",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus SW",
+        "prix": "13999",
+        "kilometrage": "110435",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "13999",
+        "kilometrage": "32780",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "13999",
+        "kilometrage": "36700",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "13999",
+        "kilometrage": "45030",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "13999",
+        "kilometrage": "45312",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "13999",
+        "kilometrage": "101130",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "13999",
+        "kilometrage": "112443",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "13999",
+        "kilometrage": "55320",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Qashqai",
+        "prix": "13999",
+        "kilometrage": "124072",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "13999",
+        "kilometrage": "13168",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "13999",
+        "kilometrage": "93225",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2015"
+    }
+]

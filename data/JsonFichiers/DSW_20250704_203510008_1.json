@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "14999",
+        "kilometrage": "39338",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "14999",
+        "kilometrage": "69958",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14999",
+        "kilometrage": "23522",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14999",
+        "kilometrage": "21942",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "14999",
+        "kilometrage": "12445",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7",
+        "prix": "14999",
+        "kilometrage": "108312",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland X",
+        "prix": "14999",
+        "kilometrage": "27830",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500C",
+        "prix": "14999",
+        "kilometrage": "20405",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "14999",
+        "kilometrage": "79486",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Aygo X",
+        "prix": "14999",
+        "kilometrage": "29650",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "14999",
+        "kilometrage": "24002",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland X",
+        "prix": "14999",
+        "kilometrage": "14731",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "14999",
+        "kilometrage": "17166",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Talisman",
+        "prix": "14999",
+        "kilometrage": "75030",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Mini",
+        "modele": "Clubman",
+        "prix": "14999",
+        "kilometrage": "119444",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland",
+        "prix": "14999",
+        "kilometrage": "68288",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "14999",
+        "kilometrage": "23890",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Société",
+        "prix": "14999",
+        "kilometrage": "44129",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Focus SW",
+        "prix": "14999",
+        "kilometrage": "101392",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane",
+        "prix": "14999",
+        "kilometrage": "80630",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7 SW",
+        "prix": "14999",
+        "kilometrage": "108762",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane",
+        "prix": "14999",
+        "kilometrage": "136486",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "14999",
+        "kilometrage": "5175",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Arkana",
+        "prix": "21499",
+        "kilometrage": "83475",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-CROSS",
+        "prix": "21499",
+        "kilometrage": "9761",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Kuga",
+        "prix": "21499",
+        "kilometrage": "45150",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508 SW",
+        "prix": "21499",
+        "kilometrage": "42760",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ateca",
+        "prix": "21499",
+        "kilometrage": "85036",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Kia",
+        "modele": "OPTIMA SW",
+        "prix": "21499",
+        "kilometrage": "67923",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2018"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Prius+",
+        "prix": "21499",
+        "kilometrage": "44254",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Kuga",
+        "prix": "21599",
+        "kilometrage": "64865",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "21599",
+        "kilometrage": "37760",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "21699",
+        "kilometrage": "62209",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "Berlingo",
+        "prix": "21699",
+        "kilometrage": "36372",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "21799",
+        "kilometrage": "25615",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "21799",
+        "kilometrage": "16635",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "prix": "21799",
+        "kilometrage": "63559",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "21799",
+        "kilometrage": "21423",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7",
+        "prix": "21799",
+        "kilometrage": "22681",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Polo",
+        "prix": "21899",
+        "kilometrage": "20545",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Audi",
+        "modele": "A1 Sportback",
+        "prix": "21899",
+        "kilometrage": "47154",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "30000",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "31620",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "21999",
+        "kilometrage": "22825",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "MG",
+        "modele": "ZS",
+        "prix": "36640",
+        "kilometrage": "0",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2025"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C5 Aircross",
+        "prix": "21999",
+        "kilometrage": "50671",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2021"
+    }
+]

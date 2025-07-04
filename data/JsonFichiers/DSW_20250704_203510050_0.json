@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "C4 Picasso",
+        "prix": "11299",
+        "kilometrage": "92460",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Panda",
+        "prix": "11299",
+        "kilometrage": "32260",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "11299",
+        "kilometrage": "70745",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "11299",
+        "kilometrage": "73943",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "11499",
+        "kilometrage": "72505",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "11499",
+        "kilometrage": "28530",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "11499",
+        "kilometrage": "19875",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "11499",
+        "kilometrage": "26209",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Twingo 3",
+        "prix": "11499",
+        "kilometrage": "36837",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Mini",
+        "modele": "Countryman",
+        "prix": "11499",
+        "kilometrage": "134318",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "11499",
+        "kilometrage": "12075",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2023"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "11499",
+        "kilometrage": "39700",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "11499",
+        "kilometrage": "60522",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Picanto",
+        "prix": "11499",
+        "kilometrage": "18035",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Suzuki",
+        "modele": "Ignis",
+        "prix": "11499",
+        "kilometrage": "21231",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka X",
+        "prix": "11499",
+        "kilometrage": "143765",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kangoo Express",
+        "prix": "11499",
+        "kilometrage": "102373",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "11499",
+        "kilometrage": "104641",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "11499",
+        "kilometrage": "78797",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "11499",
+        "kilometrage": "43765",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "11499",
+        "kilometrage": "52925",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "Tipo",
+        "prix": "11499",
+        "kilometrage": "77861",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka X",
+        "prix": "11499",
+        "kilometrage": "106454",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    }
+]

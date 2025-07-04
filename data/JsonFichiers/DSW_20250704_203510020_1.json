@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Renault",
+        "modele": "Talisman",
+        "prix": "18999",
+        "kilometrage": "74810",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Honda",
+        "modele": "Civic",
+        "prix": "18999",
+        "kilometrage": "92300",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Talisman Estate",
+        "prix": "18999",
+        "kilometrage": "89575",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 8 SW",
+        "prix": "18999",
+        "kilometrage": "111771",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "Octavia",
+        "prix": "18999",
+        "kilometrage": "110480",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "SCALA",
+        "prix": "18999",
+        "kilometrage": "70680",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "prix": "18999",
+        "kilometrage": "58573",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "JOGGER",
+        "prix": "18999",
+        "kilometrage": "52381",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon Sportstourer",
+        "prix": "18999",
+        "kilometrage": "81387",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Jogger",
+        "prix": "19099",
+        "kilometrage": "45260",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Jogger",
+        "prix": "19099",
+        "kilometrage": "21353",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "24600",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "23350",
+        "kilometrage": "20",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "19199",
+        "kilometrage": "16958",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "prix": "19299",
+        "kilometrage": "54349",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "19299",
+        "kilometrage": "36555",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "19299",
+        "kilometrage": "15531",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "JOGGER",
+        "prix": "19299",
+        "kilometrage": "7610",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "19299",
+        "kilometrage": "11375",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Leon",
+        "prix": "19299",
+        "kilometrage": "119495",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Mokka",
+        "prix": "19299",
+        "kilometrage": "20687",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "19399",
+        "kilometrage": "8735",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "24800",
+        "kilometrage": "10",
+        "boite_vitesse": "Auto.",
+        "carburant": "Micro-hybride essence",
+        "annee": "2025"
+    }
+]

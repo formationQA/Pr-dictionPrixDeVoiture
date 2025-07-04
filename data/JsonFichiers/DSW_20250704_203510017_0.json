@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "17999",
+        "kilometrage": "30736",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "2008",
+        "prix": "17999",
+        "kilometrage": "23625",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4",
+        "prix": "17999",
+        "kilometrage": "8247",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "23350",
+        "kilometrage": "10",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2025"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "prix": "17999",
+        "kilometrage": "65729",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "17999",
+        "kilometrage": "26981",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "5008",
+        "prix": "17999",
+        "kilometrage": "91765",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "17999",
+        "kilometrage": "21262",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris 4",
+        "prix": "17999",
+        "kilometrage": "51069",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "17999",
+        "kilometrage": "17595",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2023"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "Grand C4 Spacetourer",
+        "prix": "17999",
+        "kilometrage": "56925",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "prix": "17999",
+        "kilometrage": "108588",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "MG",
+        "modele": "ZS",
+        "prix": "17999",
+        "kilometrage": "3420",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "17999",
+        "kilometrage": "31720",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra",
+        "prix": "17999",
+        "kilometrage": "27012",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla Sw",
+        "prix": "17999",
+        "kilometrage": "104845",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "BMW",
+        "modele": "Série 2 Active Tourer",
+        "prix": "17999",
+        "kilometrage": "53920",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2019"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Lodgy",
+        "prix": "17999",
+        "kilometrage": "20074",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2021"
+    },
+    {
+        "marque": "Mini",
+        "modele": "Countryman",
+        "prix": "17999",
+        "kilometrage": "97320",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "17999",
+        "kilometrage": "11958",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Talisman",
+        "prix": "17999",
+        "kilometrage": "79470",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Picanto",
+        "prix": "17999",
+        "kilometrage": "21450",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Honda",
+        "modele": "Civic",
+        "prix": "17999",
+        "kilometrage": "55910",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2021"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Citroën",
+        "modele": "Berlingo",
+        "prix": "16499",
+        "kilometrage": "49262",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "16499",
+        "kilometrage": "13097",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3 Aircross",
+        "prix": "16499",
+        "kilometrage": "12601",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Puma",
+        "prix": "16499",
+        "kilometrage": "41218",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "X-Trail",
+        "prix": "16499",
+        "kilometrage": "130820",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "16499",
+        "kilometrage": "9062",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "16499",
+        "kilometrage": "70209",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "16499",
+        "kilometrage": "82303",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Nissan",
+        "modele": "Juke",
+        "prix": "16499",
+        "kilometrage": "43765",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "MG",
+        "modele": "ZS",
+        "prix": "16499",
+        "kilometrage": "23842",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "16499",
+        "kilometrage": "1040",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "DS",
+        "modele": "DS3 CROSSBACK",
+        "prix": "16499",
+        "kilometrage": "51840",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "prix": "16499",
+        "kilometrage": "31747",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2019"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C4 X",
+        "prix": "16499",
+        "kilometrage": "12021",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2024"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "SPRING",
+        "prix": "16499",
+        "kilometrage": "595",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2024"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Mégane 4 Estate",
+        "prix": "16499",
+        "kilometrage": "53545",
+        "boite_vitesse": "Auto.",
+        "carburant": "Hybride essence rechargeable",
+        "annee": "2020"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "508 SW",
+        "prix": "16499",
+        "kilometrage": "105437",
+        "boite_vitesse": "Auto.",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Taigo",
+        "prix": "16499",
+        "kilometrage": "62666",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Seat",
+        "modele": "Ibiza",
+        "prix": "16499",
+        "kilometrage": "65473",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "Ioniq",
+        "prix": "16499",
+        "kilometrage": "28434",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2020"
+    },
+    {
+        "marque": "Skoda",
+        "modele": "SCALA",
+        "prix": "16499",
+        "kilometrage": "69418",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Up",
+        "prix": "16499",
+        "kilometrage": "36230",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf 7 SW",
+        "prix": "16499",
+        "kilometrage": "73367",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    }
+]

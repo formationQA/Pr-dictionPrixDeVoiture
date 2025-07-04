@@ -1,0 +1,209 @@
+[
+    {
+        "marque": "Seat",
+        "modele": "Arona",
+        "prix": "12499",
+        "kilometrage": "121506",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2018"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Astra Sports Tourer",
+        "prix": "12499",
+        "kilometrage": "64645",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Smart",
+        "modele": "Fortwo EQ",
+        "prix": "12499",
+        "kilometrage": "17960",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Hyundai",
+        "modele": "i10",
+        "prix": "12499",
+        "kilometrage": "28903",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "12599",
+        "kilometrage": "79104",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "12599",
+        "kilometrage": "14080",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Citroën",
+        "modele": "C3",
+        "prix": "12699",
+        "kilometrage": "86938",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2022"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12699",
+        "kilometrage": "9131",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2022"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "12799",
+        "kilometrage": "3708",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2023"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Sandero",
+        "prix": "12799",
+        "kilometrage": "53458",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2022"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "prix": "12799",
+        "kilometrage": "109120",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Scénic 4",
+        "prix": "12799",
+        "kilometrage": "94801",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2017"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Crossland X",
+        "prix": "12799",
+        "kilometrage": "49355",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2018"
+    },
+    {
+        "marque": "Ford",
+        "modele": "Fiesta",
+        "prix": "12799",
+        "kilometrage": "59062",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Micro-hybride essence",
+        "annee": "2021"
+    },
+    {
+        "marque": "Kia",
+        "modele": "Ceed",
+        "prix": "12799",
+        "kilometrage": "111960",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2020"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio 5",
+        "prix": "12799",
+        "kilometrage": "102840",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2019"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12799",
+        "kilometrage": "32595",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500X",
+        "prix": "12799",
+        "kilometrage": "83204",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Diesel",
+        "annee": "2020"
+    },
+    {
+        "marque": "Fiat",
+        "modele": "500",
+        "prix": "12899",
+        "kilometrage": "26500",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "prix": "12999",
+        "kilometrage": "25479",
+        "boite_vitesse": "Manuelle",
+        "carburant": "Essence",
+        "annee": "2022"
+    },
+    {
+        "marque": "Dacia",
+        "modele": "Duster",
+        "prix": "12999",
+        "kilometrage": "92810",
+        "boite_vitesse": "Manuelle",
+        "carburant": "GPL",
+        "annee": "2020"
+    },
+    {
+        "marque": "Opel",
+        "modele": "Corsa",
+        "prix": "12999",
+        "kilometrage": "54623",
+        "boite_vitesse": "Auto.",
+        "carburant": "Électrique",
+        "annee": "2021"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "prix": "12999",
+        "kilometrage": "90980",
+        "boite_vitesse": "Auto.",
+        "carburant": "Essence",
+        "annee": "2021"
+    }
+]
